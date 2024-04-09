@@ -74,7 +74,7 @@ body {
   width: 10px;
   height: 10px;
   margin: 5px 7px;
-  background: #bb2121;
+  background: pink;
   display: block;
   -webkit-backface-visibility: visible;
   transition: opacity 200ms ease;
